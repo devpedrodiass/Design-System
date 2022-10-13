@@ -1,0 +1,6 @@
+{
+	"extends": "@pearl-ui/eslint-config",
+	"rules": {
+		"endOfLine": "auto"
+	}
+}

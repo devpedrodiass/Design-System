@@ -1,0 +1,3 @@
+{
+  "extends": "@pearl-ui/eslint-config"
+}
