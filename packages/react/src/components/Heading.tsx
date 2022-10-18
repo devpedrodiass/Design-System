@@ -7,7 +7,7 @@ export const Heading = styled('h2', {
 	margin: 0,
 	color: '$gray100',
 
-	variant: {
+	variants: {
 		size: {
 			sm: {
 				fontSize: '$xl',
@@ -44,3 +44,5 @@ export const Heading = styled('h2', {
 export interface HeadingProps extends ComponentProps<typeof Heading> {
 	as?: ElementType
 }
+
+Heading.displayName = 'Heading'
