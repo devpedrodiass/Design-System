@@ -16,5 +16,7 @@ export const colors = {
 	pearl700: '#015F43',
 	pearl900: '#00291D',
 
-	red500: '#ff0000',
+	yellow300: '#F7C600',
+
+	red300: '#F73131',
 }
