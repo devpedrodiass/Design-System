@@ -3,7 +3,7 @@ import { Toast, ToastProps } from '@pearl-ui/react'
 import React from 'react'
 
 export default {
-	title: 'Components/Toast',
+	title: 'Components/Data Display/Toast',
 	component: Toast,
 	args: {
 		title: 'This is a Toast',

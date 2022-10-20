@@ -3,7 +3,7 @@ import { Box, Button, Tooltip, TooltipProps } from '@pearl-ui/react'
 import React from 'react'
 
 export default {
-	title: 'Components/Tooltip',
+	title: 'Components/Data Display/Tooltip',
 	component: Tooltip,
 	args: {
 		text: 'This is a Tooltip',
