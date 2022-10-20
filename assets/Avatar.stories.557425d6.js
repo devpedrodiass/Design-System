@@ -1,0 +1,2 @@
+import{A as t}from"./index.a4d69ce1.js";import"./index.3fc68c36.js";import"./iframe.7ddefbba.js";import"./index.7676a70e.js";import"./jsx-runtime.5235b935.js";const p={title:"Components/Data Display/Avatar",component:t,args:{src:"https://github.com/fariapv.png",alt:"Image"},argTypes:{src:{control:{type:"text"}}}},m={},c={args:{src:void 0}},e=["Primary","WithFallback"];export{m as Primary,c as WithFallback,e as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.557425d6.js.map
